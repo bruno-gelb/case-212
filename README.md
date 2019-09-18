@@ -130,7 +130,6 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
-| Гольд Никита                       | Backend Developer, Москва               |
 | Серебрянский Константин            | Fullstack Developer, Osome + Mediazona, Москва|
 | Макаров Александр                  | Старший разработчик, Москва             |
 | Иванов Виталий                     | CTO, Москва                             |
@@ -142,3 +141,4 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Дмитрий Назаров                    | Senior Developer, DataArt, Санкт-Петербург | 
